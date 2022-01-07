@@ -1,0 +1,17 @@
+G:\All Projects\virtual studio\NewCafe\bin\Debug\NewCafe.exe.config
+G:\All Projects\virtual studio\NewCafe\bin\Debug\NewCafe.exe
+G:\All Projects\virtual studio\NewCafe\bin\Debug\NewCafe.pdb
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.csprojAssemblyReference.cache
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.Properties.Resources.resources
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.csproj.GenerateResource.cache
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.csproj.CoreCompileInputs.cache
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.exe
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.pdb
+G:\All Projects\virtual studio\NewCafe\bin\Debug\Guna.UI2.dll
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.Form1.resources
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.csproj.CopyComplete
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.dashboard.resources
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.UC_AddItems.resources
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.Uc_PlaceOrder.resources
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.UC_UpdateItems.resources
+G:\All Projects\virtual studio\NewCafe\obj\Debug\NewCafe.UC_RemoveItem.resources
